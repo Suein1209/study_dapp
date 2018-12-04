@@ -7,9 +7,10 @@
 ### http://animejs.com/
 ### http://animejs.com/documentation/#finishedPromise
 ### https://truffleframework.com/
-### ttps://aws.amazon.com/ko/free/machine-learning/
+### https://aws.amazon.com/ko/free/machine-learning/
 
-
+### https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#readContract
+ - 이더리움 계약서 검색 하는 곳
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjM5MDE5NF19
+eyJoaXN0b3J5IjpbMzk5NjY1NDY0LC00OTYzOTAxOTRdfQ==
 -->
